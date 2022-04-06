@@ -1,0 +1,385 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Feature 1",
+    "children" : [ {
+      "name" : "Feature 1 Scenario smoke",
+      "uid" : "4cb704100e3cf8e6",
+      "parentUid" : "eab0802ad4971d31c885b2ddb40796ca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649244530142,
+        "stop" : 1649244530175,
+        "duration" : 33
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.75" ]
+    }, {
+      "name" : "Feature 1 Scenario regression",
+      "uid" : "48092511daf2f8",
+      "parentUid" : "eab0802ad4971d31c885b2ddb40796ca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649244530181,
+        "stop" : 1649244530214,
+        "duration" : 33
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.75" ]
+    } ],
+    "uid" : "eab0802ad4971d31c885b2ddb40796ca"
+  }, {
+    "name" : "Feature 2",
+    "children" : [ {
+      "name" : "Feature 2 Scenario smoke",
+      "uid" : "36f04fc7767b3133",
+      "parentUid" : "271db08a0833178b535ede6ddb99652e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649244530311,
+        "stop" : 1649244581362,
+        "duration" : 51051
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.75" ]
+    }, {
+      "name" : "Feature 2 Scenario regression ",
+      "uid" : "861f0f40b927fc7a",
+      "parentUid" : "271db08a0833178b535ede6ddb99652e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649244581364,
+        "stop" : 1649244609542,
+        "duration" : 28178
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.75" ]
+    } ],
+    "uid" : "271db08a0833178b535ede6ddb99652e"
+  }, {
+    "name" : "Feature 3",
+    "children" : [ {
+      "name" : "Feature 3 Scenario smoke ",
+      "uid" : "6bd2eb5fc46da331",
+      "parentUid" : "8a1b52e9ee3e06df810b97ed997990f1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649244609553,
+        "stop" : 1649244609573,
+        "duration" : 20
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.75" ]
+    }, {
+      "name" : "Feature 3 Scenario regression citi",
+      "uid" : "ee42060f10bd0bc8",
+      "parentUid" : "8a1b52e9ee3e06df810b97ed997990f1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649244609575,
+        "stop" : 1649244644021,
+        "duration" : 34446
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.75" ]
+    } ],
+    "uid" : "8a1b52e9ee3e06df810b97ed997990f1"
+  }, {
+    "name" : "Feature 4",
+    "children" : [ {
+      "name" : "Feature 4 Scenario smoke citi",
+      "uid" : "8901fe1952eda840",
+      "parentUid" : "42151b9082dc9b18b41d42c222e15be8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649244644050,
+        "stop" : 1649244671570,
+        "duration" : 27520
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.75" ]
+    }, {
+      "name" : "Feature 4 Scenario regression citi dsl",
+      "uid" : "e7c33ccb80bf619",
+      "parentUid" : "42151b9082dc9b18b41d42c222e15be8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649244671572,
+        "stop" : 1649244697047,
+        "duration" : 25475
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.75" ]
+    } ],
+    "uid" : "42151b9082dc9b18b41d42c222e15be8"
+  }, {
+    "name" : "Feature 5",
+    "children" : [ {
+      "name" : "Feature 5 Scenario smoke",
+      "uid" : "fe9b2a50cb1f5917",
+      "parentUid" : "29f5105c4c8193a6595c6ef239d50768",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649244697080,
+        "stop" : 1649244697088,
+        "duration" : 8
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.75" ]
+    }, {
+      "name" : "Feature 5 Scenario regression citi",
+      "uid" : "be15ea2da7d09fb3",
+      "parentUid" : "29f5105c4c8193a6595c6ef239d50768",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649244697089,
+        "stop" : 1649244697096,
+        "duration" : 7
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.75" ]
+    } ],
+    "uid" : "29f5105c4c8193a6595c6ef239d50768"
+  }, {
+    "name" : "Feature 6",
+    "children" : [ {
+      "name" : "Feature 6 Scenario smoke",
+      "uid" : "974a27d2c8d1a9b4",
+      "parentUid" : "1e131885042054c653e21e2014d66474",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649244697101,
+        "stop" : 1649244745824,
+        "duration" : 48723
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.75" ]
+    }, {
+      "name" : "Feature 6 Scenario regression",
+      "uid" : "bea2837f8133b47c",
+      "parentUid" : "1e131885042054c653e21e2014d66474",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649244745829,
+        "stop" : 1649244774015,
+        "duration" : 28186
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.75" ]
+    } ],
+    "uid" : "1e131885042054c653e21e2014d66474"
+  }, {
+    "name" : "Feature 7",
+    "children" : [ {
+      "name" : "Feature 7 Scenario smoke",
+      "uid" : "a6c399d330fb7c93",
+      "parentUid" : "4121b10c88ae1646baeda2de6ec37f6b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649244774027,
+        "stop" : 1649244802884,
+        "duration" : 28857
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.75" ]
+    }, {
+      "name" : "Feature 7 Scenario regression",
+      "uid" : "128e1f59b18b957b",
+      "parentUid" : "4121b10c88ae1646baeda2de6ec37f6b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649244802889,
+        "stop" : 1649244831187,
+        "duration" : 28298
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.75" ]
+    } ],
+    "uid" : "4121b10c88ae1646baeda2de6ec37f6b"
+  }, {
+    "name" : "Feature 8",
+    "children" : [ {
+      "name" : "Feature 8 Scenario smoke",
+      "uid" : "5c28bdf2d6dcab45",
+      "parentUid" : "afdd47867c1e83bdbc30ba1186c064bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649244831218,
+        "stop" : 1649244856809,
+        "duration" : 25591
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.75" ]
+    }, {
+      "name" : "Feature 8 Scenario regression",
+      "uid" : "d534b5558783f595",
+      "parentUid" : "afdd47867c1e83bdbc30ba1186c064bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649244856811,
+        "stop" : 1649244882162,
+        "duration" : 25351
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.75" ]
+    } ],
+    "uid" : "afdd47867c1e83bdbc30ba1186c064bf"
+  }, {
+    "name" : "Feature 9",
+    "children" : [ {
+      "name" : "Feature 9 Scenario smoke citi",
+      "uid" : "a0a22cb8edbb60d7",
+      "parentUid" : "c66acbc30c3b449a89d9a38b20e9163a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649244882176,
+        "stop" : 1649244882179,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.75" ]
+    }, {
+      "name" : "Feature 9 Scenario regression citi",
+      "uid" : "9d77b7bb3431cf8f",
+      "parentUid" : "c66acbc30c3b449a89d9a38b20e9163a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649244882180,
+        "stop" : 1649244882183,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.75" ]
+    } ],
+    "uid" : "c66acbc30c3b449a89d9a38b20e9163a"
+  }, {
+    "name" : "Feature 10",
+    "children" : [ {
+      "name" : "Feature 10 Scenario smoke citi",
+      "uid" : "9dcabb8d2fbc5ea5",
+      "parentUid" : "a7c333a80424e7789297b9da36fafb1a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649244882189,
+        "stop" : 1649244912130,
+        "duration" : 29941
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.75" ]
+    }, {
+      "name" : "Feature 10 Scenario regression citi",
+      "uid" : "a90357afd7d9bec0",
+      "parentUid" : "a7c333a80424e7789297b9da36fafb1a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649244912136,
+        "stop" : 1649244938034,
+        "duration" : 25898
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.75" ]
+    } ],
+    "uid" : "a7c333a80424e7789297b9da36fafb1a"
+  } ]
+}

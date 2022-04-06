@@ -1,0 +1,62 @@
+{
+  "uid" : "128e1f59b18b957b",
+  "name" : "Feature 7 Scenario regression",
+  "fullName" : "Feature 7.Feature 7 Scenario regression",
+  "historyId" : "fbd555ee1bf196a2394776ce799c5e2d",
+  "time" : {
+    "start" : 1649244802889,
+    "stop" : 1649244831187,
+    "duration" : 28298
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Feature 7"
+  }, {
+    "name" : "testClass",
+    "value" : "Feature 7"
+  }, {
+    "name" : "testMethod",
+    "value" : "Feature 7 Scenario regression"
+  }, {
+    "name" : "package",
+    "value" : "Feature 7"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.75"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "128e1f59b18b957b.json",
+  "parameterValues" : [ "chrome-100.0.4896.75" ]
+}

@@ -1,0 +1,62 @@
+{
+  "uid" : "5c28bdf2d6dcab45",
+  "name" : "Feature 8 Scenario smoke",
+  "fullName" : "Feature 8.Feature 8 Scenario smoke",
+  "historyId" : "27731d75b2fd73b12950f240ed3c0cd8",
+  "time" : {
+    "start" : 1649244831218,
+    "stop" : 1649244856809,
+    "duration" : 25591
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Feature 8"
+  }, {
+    "name" : "testClass",
+    "value" : "Feature 8"
+  }, {
+    "name" : "testMethod",
+    "value" : "Feature 8 Scenario smoke"
+  }, {
+    "name" : "package",
+    "value" : "Feature 8"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.75"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5c28bdf2d6dcab45.json",
+  "parameterValues" : [ "chrome-100.0.4896.75" ]
+}

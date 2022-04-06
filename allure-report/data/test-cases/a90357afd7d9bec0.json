@@ -1,0 +1,62 @@
+{
+  "uid" : "a90357afd7d9bec0",
+  "name" : "Feature 10 Scenario regression citi",
+  "fullName" : "Feature 10.Feature 10 Scenario regression citi",
+  "historyId" : "4cd8f0d7a9f36499e3aea1caaa5773e5",
+  "time" : {
+    "start" : 1649244912136,
+    "stop" : 1649244938034,
+    "duration" : 25898
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Feature 10"
+  }, {
+    "name" : "testClass",
+    "value" : "Feature 10"
+  }, {
+    "name" : "testMethod",
+    "value" : "Feature 10 Scenario regression citi"
+  }, {
+    "name" : "package",
+    "value" : "Feature 10"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.75"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a90357afd7d9bec0.json",
+  "parameterValues" : [ "chrome-100.0.4896.75" ]
+}

@@ -1,0 +1,62 @@
+{
+  "uid" : "9dcabb8d2fbc5ea5",
+  "name" : "Feature 10 Scenario smoke citi",
+  "fullName" : "Feature 10.Feature 10 Scenario smoke citi",
+  "historyId" : "9fc2c96ead128c8a8f79939297250dc7",
+  "time" : {
+    "start" : 1649244882189,
+    "stop" : 1649244912130,
+    "duration" : 29941
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Feature 10"
+  }, {
+    "name" : "testClass",
+    "value" : "Feature 10"
+  }, {
+    "name" : "testMethod",
+    "value" : "Feature 10 Scenario smoke citi"
+  }, {
+    "name" : "package",
+    "value" : "Feature 10"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.75"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9dcabb8d2fbc5ea5.json",
+  "parameterValues" : [ "chrome-100.0.4896.75" ]
+}

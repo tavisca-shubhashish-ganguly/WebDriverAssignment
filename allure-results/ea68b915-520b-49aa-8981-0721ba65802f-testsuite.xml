@@ -1,0 +1,35 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1649244644049' stop='1649244697051'>
+    <name>Feature 4</name>
+    <title>Feature 4</title>
+    <test-cases>
+        <test-case start='1649244644050' status='passed' stop='1649244671570'>
+            <name>Feature 4 Scenario smoke citi</name>
+            <title>Feature 4 Scenario smoke citi</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-100.0.4896.75'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1649244671572' status='passed' stop='1649244697047'>
+            <name>Feature 4 Scenario regression citi dsl</name>
+            <title>Feature 4 Scenario regression citi dsl</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-100.0.4896.75'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

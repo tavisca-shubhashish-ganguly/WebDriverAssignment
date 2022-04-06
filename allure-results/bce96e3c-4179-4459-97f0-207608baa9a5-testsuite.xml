@@ -1,0 +1,35 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1649244697101' stop='1649244774016'>
+    <name>Feature 6</name>
+    <title>Feature 6</title>
+    <test-cases>
+        <test-case start='1649244697101' status='passed' stop='1649244745824'>
+            <name>Feature 6 Scenario smoke</name>
+            <title>Feature 6 Scenario smoke</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-100.0.4896.75'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1649244745829' status='passed' stop='1649244774015'>
+            <name>Feature 6 Scenario regression</name>
+            <title>Feature 6 Scenario regression</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-100.0.4896.75'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

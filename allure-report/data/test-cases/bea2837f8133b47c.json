@@ -1,0 +1,62 @@
+{
+  "uid" : "bea2837f8133b47c",
+  "name" : "Feature 6 Scenario regression",
+  "fullName" : "Feature 6.Feature 6 Scenario regression",
+  "historyId" : "4e128d30c4b57adbd4fc368263d0d4ba",
+  "time" : {
+    "start" : 1649244745829,
+    "stop" : 1649244774015,
+    "duration" : 28186
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Feature 6"
+  }, {
+    "name" : "testClass",
+    "value" : "Feature 6"
+  }, {
+    "name" : "testMethod",
+    "value" : "Feature 6 Scenario regression"
+  }, {
+    "name" : "package",
+    "value" : "Feature 6"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.75"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bea2837f8133b47c.json",
+  "parameterValues" : [ "chrome-100.0.4896.75" ]
+}

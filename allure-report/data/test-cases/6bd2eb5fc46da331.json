@@ -1,0 +1,62 @@
+{
+  "uid" : "6bd2eb5fc46da331",
+  "name" : "Feature 3 Scenario smoke ",
+  "fullName" : "Feature 3.Feature 3 Scenario smoke ",
+  "historyId" : "88f718610d5d66140e7b6d8a76905fc",
+  "time" : {
+    "start" : 1649244609553,
+    "stop" : 1649244609573,
+    "duration" : 20
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Feature 3"
+  }, {
+    "name" : "testClass",
+    "value" : "Feature 3"
+  }, {
+    "name" : "testMethod",
+    "value" : "Feature 3 Scenario smoke "
+  }, {
+    "name" : "package",
+    "value" : "Feature 3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.75"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6bd2eb5fc46da331.json",
+  "parameterValues" : [ "chrome-100.0.4896.75" ]
+}

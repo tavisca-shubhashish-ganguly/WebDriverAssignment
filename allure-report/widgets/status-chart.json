@@ -1,0 +1,201 @@
+[ {
+  "uid" : "36f04fc7767b3133",
+  "name" : "Feature 2 Scenario smoke",
+  "time" : {
+    "start" : 1649244530311,
+    "stop" : 1649244581362,
+    "duration" : 51051
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9d77b7bb3431cf8f",
+  "name" : "Feature 9 Scenario regression citi",
+  "time" : {
+    "start" : 1649244882180,
+    "stop" : 1649244882183,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9dcabb8d2fbc5ea5",
+  "name" : "Feature 10 Scenario smoke citi",
+  "time" : {
+    "start" : 1649244882189,
+    "stop" : 1649244912130,
+    "duration" : 29941
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a6c399d330fb7c93",
+  "name" : "Feature 7 Scenario smoke",
+  "time" : {
+    "start" : 1649244774027,
+    "stop" : 1649244802884,
+    "duration" : 28857
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ee42060f10bd0bc8",
+  "name" : "Feature 3 Scenario regression citi",
+  "time" : {
+    "start" : 1649244609575,
+    "stop" : 1649244644021,
+    "duration" : 34446
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "be15ea2da7d09fb3",
+  "name" : "Feature 5 Scenario regression citi",
+  "time" : {
+    "start" : 1649244697089,
+    "stop" : 1649244697096,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a90357afd7d9bec0",
+  "name" : "Feature 10 Scenario regression citi",
+  "time" : {
+    "start" : 1649244912136,
+    "stop" : 1649244938034,
+    "duration" : 25898
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "974a27d2c8d1a9b4",
+  "name" : "Feature 6 Scenario smoke",
+  "time" : {
+    "start" : 1649244697101,
+    "stop" : 1649244745824,
+    "duration" : 48723
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "48092511daf2f8",
+  "name" : "Feature 1 Scenario regression",
+  "time" : {
+    "start" : 1649244530181,
+    "stop" : 1649244530214,
+    "duration" : 33
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "128e1f59b18b957b",
+  "name" : "Feature 7 Scenario regression",
+  "time" : {
+    "start" : 1649244802889,
+    "stop" : 1649244831187,
+    "duration" : 28298
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "861f0f40b927fc7a",
+  "name" : "Feature 2 Scenario regression ",
+  "time" : {
+    "start" : 1649244581364,
+    "stop" : 1649244609542,
+    "duration" : 28178
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d534b5558783f595",
+  "name" : "Feature 8 Scenario regression",
+  "time" : {
+    "start" : 1649244856811,
+    "stop" : 1649244882162,
+    "duration" : 25351
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8901fe1952eda840",
+  "name" : "Feature 4 Scenario smoke citi",
+  "time" : {
+    "start" : 1649244644050,
+    "stop" : 1649244671570,
+    "duration" : 27520
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a0a22cb8edbb60d7",
+  "name" : "Feature 9 Scenario smoke citi",
+  "time" : {
+    "start" : 1649244882176,
+    "stop" : 1649244882179,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4cb704100e3cf8e6",
+  "name" : "Feature 1 Scenario smoke",
+  "time" : {
+    "start" : 1649244530142,
+    "stop" : 1649244530175,
+    "duration" : 33
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fe9b2a50cb1f5917",
+  "name" : "Feature 5 Scenario smoke",
+  "time" : {
+    "start" : 1649244697080,
+    "stop" : 1649244697088,
+    "duration" : 8
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bea2837f8133b47c",
+  "name" : "Feature 6 Scenario regression",
+  "time" : {
+    "start" : 1649244745829,
+    "stop" : 1649244774015,
+    "duration" : 28186
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e7c33ccb80bf619",
+  "name" : "Feature 4 Scenario regression citi dsl",
+  "time" : {
+    "start" : 1649244671572,
+    "stop" : 1649244697047,
+    "duration" : 25475
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5c28bdf2d6dcab45",
+  "name" : "Feature 8 Scenario smoke",
+  "time" : {
+    "start" : 1649244831218,
+    "stop" : 1649244856809,
+    "duration" : 25591
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6bd2eb5fc46da331",
+  "name" : "Feature 3 Scenario smoke ",
+  "time" : {
+    "start" : 1649244609553,
+    "stop" : 1649244609573,
+    "duration" : 20
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
